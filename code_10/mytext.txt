@@ -1,0 +1,19 @@
+ Volume in drive C is System
+ Volume Serial Number is EC0F-A023
+
+ Directory of C:\Temp\code_10
+
+15.09.2019 £.  12:01    <DIR>          .
+15.09.2019 £.  12:01    <DIR>          ..
+02.09.2019 £.  04:26               334 1_echo-client.py
+02.09.2019 £.  04:26               513 1_echo-server.py
+02.09.2019 £.  04:26               403 2_basic-socket.py
+15.09.2019 £.  11:57               312 3_pyClient.py
+15.09.2019 £.  11:58               471 3_pyServer.py
+02.09.2019 £.  04:26               249 fileclient.py
+02.09.2019 £.  04:26               378 fileserver.py
+15.09.2019 £.  12:01                 0 mytext.txt
+02.09.2019 £.  04:26               233 tcpipclient.py
+02.09.2019 £.  04:26               291 tcpipserver.py
+              10 File(s)          3ÿ184 bytes
+               2 Dir(s)  38ÿ841ÿ565ÿ184 bytes free
